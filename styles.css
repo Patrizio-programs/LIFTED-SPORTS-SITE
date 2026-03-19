@@ -16,3 +16,12 @@ h1 {
   color: white;
 
 }
+
+.footballpic {
+  display: flex;
+
+  flex-direction: column;
+  
+
+ background-color: salmon;
+}
