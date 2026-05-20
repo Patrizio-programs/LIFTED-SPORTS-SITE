@@ -45,3 +45,23 @@ h1 {
 li {
   list-style:  none;
 }
+
+
+.tennisplayerimg{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.tennisplayer{
+
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  color: white;
+  margin:5px ;
+  padding: 25px;
+}
+
